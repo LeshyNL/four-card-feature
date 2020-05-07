@@ -100,10 +100,6 @@ main {
   margin-top: 1rem;
 }    
     
-footer {margin-top: 5rem;}  
-.attribution {font-size: 0.75rem; text-align: center;}
-.attribution a {color: hsl(228, 45%, 44%);}
-   
 /* Intermediate breakpoint to increase width of page intro */
 @media screen and (min-width: 60.05rem) {
   .page-title, .page-subtitle {
@@ -123,7 +119,7 @@ footer {margin-top: 5rem;}
   }
   
   .page-title, .page-subtitle {
-    font-size: 2rem;
+    font-size: 2.25rem;
   }
       
   .card-supervisor, .card-calculator {
